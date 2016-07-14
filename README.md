@@ -1,3 +1,7 @@
+# DEPRECATED
+
+_this module has now become a part of the core of [OpenEyes](https://github.com/openeyes/OpenEyes), and no further development will take place on this repository_
+
 # PASAPI
 
 ## Overview
